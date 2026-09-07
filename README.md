@@ -8,8 +8,8 @@ Verschiedene Möglichkeiten der Datengewinung
 * Keine LED – das ist normal bei diesem Modul
 * Hersteller: STEINEL GmbH (Deutschland)
 
-1. Arduino Sensors/ping zum Teil auskommentiert. Zeigt Bewegung grafisch an. Glitsc? 
-2. Digitaler Eingang Ausgabe Text in Seriellem Monitor
-3. Analoger Eingang zeigt die Bewegungen als Grafik. Vorschlag von KI/Grok
+1. Arduino Sensors/ping zum Teil auskommentiert. Zeigt Bewegung grafisch an. Glitsc? : /radar
+2. Digitaler Eingang Ausgabe Text in Seriellem Monitor ; /radar_grok
+3. Analoger Eingang zeigt die Bewegungen als Grafik. Vorschlag von KI/Grok ; /rafa_10
 
 3 gefällt mir am besten.   
